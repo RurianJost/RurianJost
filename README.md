@@ -23,3 +23,5 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo">
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua logo">
 </div>
+  
+![Snake animation](https://github.com/kod4dev/kod4dev/blob/output/github-contribution-grid-snake.svg)![Snake animation](https://github.com/kod4dev/kod4dev/blob/output/github-contribution-grid-snake.svg)
