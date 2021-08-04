@@ -2,6 +2,13 @@
 💸・Programação,<br>
 ⏳・Atualmente estudando para ser Full Stack,<br>
 ❄️・Trabalho atualmente com Freelancer,<br>
+
+<div>
+<a href="https://github.com/rurianjost">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rurianjost&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rurianjost&layout=compact&langs_count=16&theme=midnight-purple">
+</div>
+
 ##
 <div>
 <a href="https://discord.gg/CZaYaJGcMP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
