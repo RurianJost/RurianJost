@@ -24,4 +24,4 @@
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua logo">
 </div>
   
-![Snake animation](https://github.com/kod4dev/kod4dev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rurianjost/rurianjost/blob/output/github-contribution-grid-snake.svg)
