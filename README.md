@@ -1,6 +1,6 @@
 ### Olá eu sou o Rurian
 💸・Programação,<br>
-⏳・Atualmente estudando para ser Back End,<br>
+⏳・Atualmente estudando para ser Back End <br>
 
 <div>
 <a href="https://github.com/rurianjost">
