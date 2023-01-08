@@ -1,6 +1,7 @@
 ### Olá eu sou o Rurian
-💸・Programação,<br>
+💸・Programação <br>
 ⏳・Atualmente estudando para ser Back End <br>
+👑・CEO - RKG Store <br>
 
 <div>
 <a href="https://github.com/rurianjost">
@@ -10,7 +11,7 @@
 
 ##
 <div>
-<a href="https://discord.gg/CZaYaJGcMP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/VNH6fGtZQw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.instagram.com/rurianjost" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
