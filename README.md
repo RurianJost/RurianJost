@@ -1,27 +1,57 @@
-### Olá eu sou o Rurian
-💸・Programação <br>
-⏳・Atualmente estudando para ser Back End <br>
-👑・CEO - RKG Store <br>
+<h1 align="left">Hi 👋! My name is Rurian Jost </></h1>
 
-<div>
-<a href="https://github.com/rurianjost">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rurianjost&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rurianjost&layout=compact&langs_count=16&theme=midnight-purple">
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RurianJost&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RurianJost&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-##
-<div>
-<a href="https://discord.gg/VNH6fGtZQw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://www.instagram.com/rurianjost" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+###
+
+<h3 align="left">Linguagens de programação:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-##
+###
 
-<div>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript logo">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 logo">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo">
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua logo">
-</div><br>
-  
-![Snake animation](https://github.com/rurianjost/rurianjost/blob/output/github-contribution-grid-snake.svg)
+<h3 align="left">Redes Sociais:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@rkgstore" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/rurianjost/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/rurianjost" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://dsc.gg/rkgstore" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/RurianJost/RurianJost/output/snake.svg" alt="Snake animation" />
+
+###
